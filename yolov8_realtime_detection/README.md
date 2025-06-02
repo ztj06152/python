@@ -1,6 +1,7 @@
 # Real-time Object Detection and Analysis System
 
 This project implements a real-time object detection and analysis system using YOLOv8, OpenCV, and Matplotlib. It continuously monitors a webcam feed, detects objects, logs detection counts to a CSV file, and visualizes the statistics in a dynamic bar chart. The system is optimized with multi-threading to ensure smooth video display alongside intensive detection tasks.
+
 資工二B 411203380 張庭嘉
 ---
 
